@@ -15,7 +15,7 @@ Key Features:
 Installation:
 
 1.	Clone the repository:
-2.	git clone https://github.com/yourusername/Explainable-Swin-Unet-Brain-Tumor.git
+2.	git clone git clone https://github.com/masifchishti/Explainable-Swin-Unet-Brain-Tumor.git
 3.	cd Explainable-Swin-Unet-Brain-Tumor
 4.	Install dependencies:
 5.	pip install torch torchvision numpy matplotlib seaborn scikit-learn
