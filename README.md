@@ -42,15 +42,28 @@ Results Summary:
 	Mean AUC: 0.98
 	Inference Time: 28ms (NVIDIA Tesla T4)
 
-Visual Results
+## Visual Results
 
-Grad-CAM Explainability
+### Grad-CAM Explainability
 
-The model provides explainable predictions using Grad-CAM heatmaps to highlight important MRI regions influencing the decision.
+The model provides explainable predictions using Grad-CAM heatmaps.
 
-Model Performance
+![Glioma](gradcam_glioma.png)
 
-Performance evaluation includes accuracy curves, confusion matrix, ROC analysis, and prediction visualization.
+![Pituitary](gradcam_pituitary.png)
+
+![Meningioma](gradcam_meningioma.png)
+
+
+### Model Performance
+
+![Accuracy Curve](Accuracy_Curve.png)
+
+![Confusion Matrix](Confusion_Matrix2.png)
+
+![ROC Curve](MultiClass_ROC.png)
+
+![Model Efficiency](model_efficiency.png)
 
 Repository Structure:
 
