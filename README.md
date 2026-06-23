@@ -48,8 +48,6 @@ Model Performance
 
 Performance evaluation includes accuracy curves, confusion matrix, ROC analysis, and prediction visualization.
 
-![Confusion Matrix]
-
 Repository Structure:
 
 	model/: Swin-Unet architecture definition.
