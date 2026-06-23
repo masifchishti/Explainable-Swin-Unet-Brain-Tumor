@@ -3,6 +3,10 @@ Official implementation of Hybrid Swin-Unet for Brain Tumor Detection with Grad-
 
 Explainable Hybrid Neural Networks for Trustworthy Brain Tumor Detection
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![AI](https://img.shields.io/badge/Field-Medical%20AI-green)
+
 This repository contains the implementation of a Hybrid Swin-Unet architecture for multi-class brain tumor classification from MRI scans. The model integrates hierarchical Swin Transformers with a U-Net decoder to capture both global context and local spatial features.
 
 Key Features:
