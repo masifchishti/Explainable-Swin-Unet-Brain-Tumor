@@ -1,4 +1,4 @@
-# Explainable-Swin-Unet-Brain-Tumor
+Explainable-Swin-Unet-Brain-Tumor
 Official implementation of Hybrid Swin-Unet for Brain Tumor Detection with Grad-CAM Explainability
 
 Explainable Hybrid Neural Networks for Trustworthy Brain Tumor Detection
