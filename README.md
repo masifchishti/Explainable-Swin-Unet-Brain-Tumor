@@ -44,14 +44,11 @@ Grad-CAM Explainability
 
 The model provides explainable predictions using Grad-CAM heatmaps to highlight important MRI regions influencing the decision.
 
-![GradCAM](results/gradcam_heatmap.png)
-
-
 Model Performance
 
 Performance evaluation includes accuracy curves, confusion matrix, ROC analysis, and prediction visualization.
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix]
 
 Repository Structure:
 
